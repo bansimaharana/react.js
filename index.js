@@ -1,3 +1,2 @@
-function changecolor(color){
-    document.body.style.background=color
-}
+console.log("React",React);
+console.log("React",ReactDOM);
