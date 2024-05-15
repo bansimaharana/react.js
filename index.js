@@ -6,7 +6,7 @@ console.log("React",ReactDOM);
 
 const root=document.getElementById("root")
 
-const heading1= React.createElement("h1",{class:"heading1"},"heading2 hello react");
+const heading1= React.createElement("h1",{class:"heading1"},"heading2 hello");
 const container1= React.createElement("div",{class:"container1",style:{backgroundColor:"red"}},heading1);
 
 
